@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>ZapPad QA Updates - TEST MODE</title><description>QA only; no production updates.</description></channel></rss>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ZapPadDirect</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 21 Oct 2026 00:34:00 -0500</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DeepSubz/ZapPad-downloads/releases/download/qa-v0.1.1-4/ZapPad-0.1.1-4.zip" length="5678555" type="application/octet-stream" sparkle:edSignature="yI7bsxkLh8GDr1gwFhKx7grf/P1IhqmfQrwSBp5T9S6x3AL/7uDjdB4JKMGL8hvk6SdIcAsMpfKUklKDTj8dCw=="/>
+        </item>
+    </channel>
+</rss>
