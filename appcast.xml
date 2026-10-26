@@ -3,12 +3,12 @@
     <channel>
         <title>ZapPadDirect</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 26 Oct 2026 18:45:14 -0500</pubDate>
-            <sparkle:version>2026102604</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Mon, 26 Oct 2026 18:53:01 -0500</pubDate>
+            <sparkle:version>2026102605</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DeepSubz/ZapPad-downloads/releases/download/v1.0.1-2026102604/ZapPad-1.0.1-2026102604.zip" length="5809268" type="application/octet-stream" sparkle:edSignature="V5bQe8Yt1K0gU/6PSu4Afiaz56rXYbiJgGZA5OLQEDG5pzFpquRjMBE81fl+JkwKIvXWOhSgPFyBfbdnWe0RCA=="/>
+            <enclosure url="https://github.com/DeepSubz/ZapPad-downloads/releases/download/v1.0.2-2026102605/ZapPad-1.0.2-2026102605.zip" length="5809213" type="application/octet-stream" sparkle:edSignature="4RC/6O/y1OMPe2pBmiJEE0AuSj4O9eGeiG2kll2jY9lt3oYFalZcZZ2Qm8/b7TbGah9gMUv/XWg1fr5Vq4Y6Dw=="/>
         </item>
     </channel>
 </rss>
