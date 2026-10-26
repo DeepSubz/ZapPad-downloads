@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>ZapPad isolated update safety QA — TEST MODE</title>
+    <link>https://evolute-llc.com/zappad/</link>
+    <description>QA only. Not a customer production release.</description>
+    <item>
+      <title>ZapPad QA 1.0.1</title>
+      <pubDate>Mon, 26 Oct 2026 22:13:06 +0000</pubDate>
+      <description>Isolated signed/notarized QA update. Test licensing only; no live purchase. Verifies unnamed-draft preservation.</description>
+      <sparkle:version>2026102692</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/DeepSubz/ZapPad-downloads/releases/download/qa-safety-20261026-2/ZapPad-QA-1.0.1-2026102692.zip" length="5811234" type="application/octet-stream" sparkle:edSignature="8Q+cx/C/zqEZnO5LTmdRE6UikT/3QoGbJWC0btZw4AFLT0/8YQJ953ivL2z+1OqI52wHg0Pk2PCx8HAa5P+hBg==" />
+    </item>
+  </channel>
+</rss>
