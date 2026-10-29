@@ -1,14 +1,23 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>ZapPadDirect</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Thu, 29 Oct 2026 02:32:06 -0500</pubDate>
+            <sparkle:version>2026102905</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DeepSubz/ZapPad-downloads/releases/download/v1.1.0-2026102905/ZapPad-1.1.0-2026102905.zip" length="9248992" type="application/octet-stream" sparkle:edSignature="t+jMrqx6wsjlf5sEUL84IgCFs9Affv++m8fL8M7M9VUdi6+d3UKRTK6kKw5c8fL3g5ZwOO4pPwGEbU4WHuoHAg==" />
+            <description>&lt;p&gt;New JSON, XML and delimited-data inspectors; column tools; live Markdown/Mermaid preview; File Browser; indentation and selection helpers; synchronized review scrolling.&lt;/p&gt;&lt;p&gt;A cleaner workspace adds distinct Lucide icons, a compact Actions panel and a streamlined toolbar with Undo/Redo. Find and Replace stay in the footer.&lt;/p&gt;&lt;p&gt;Feature instructions and limits: &lt;a href="https://evolute-llc.com/zappad/help/"&gt;ZapPad Help&lt;/a&gt;.&lt;/p&gt;</description>
+        </item>
         <item>
             <title>1.0.3</title>
             <pubDate>Mon, 26 Oct 2026 19:28:11 -0500</pubDate>
             <sparkle:version>2026102701</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DeepSubz/ZapPad-downloads/releases/download/v1.0.3-2026102701/ZapPad-1.0.3-2026102701.zip" length="5799263" type="application/octet-stream" sparkle:edSignature="MzS64nIrfgSMyakTybtLW3Kf+pOkpUdkjCW7ZTgH5nNMWd7XE4MeK9UlFJ76A1xYl9CJrI0+17fu1rrNFrrzBw=="/>
+            <enclosure url="https://github.com/DeepSubz/ZapPad-downloads/releases/download/v1.0.3-2026102701/ZapPad-1.0.3-2026102701.zip" length="5799263" type="application/octet-stream" sparkle:edSignature="MzS64nIrfgSMyakTybtLW3Kf+pOkpUdkjCW7ZTgH5nNMWd7XE4MeK9UlFJ76A1xYl9CJrI0+17fu1rrNFrrzBw==" />
         </item>
     </channel>
 </rss>
