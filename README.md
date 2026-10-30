@@ -8,6 +8,6 @@ Use the latest production DMG for a normal installation. The ZIP is the signed S
 
 Annual subscription: $29.99 USD/year, automatically renewing until canceled. Monthly: $2.99 USD/month, $35.88 over twelve paid months. Cancel either subscription before renewal at https://zappad.lemonsqueezy.com/billing; future charges stop with no balance owed. No prorated refunds for unused time except where required by law or Lemon Squeezy policy. We notify you before renewal price increases. Existing one-time buyers are not automatically enrolled. Before twelve confirmed paid months, access ends with the paid month. Covered-build fallback and revocation follow the linked license terms. Up to three activated Macs.
 
-`appcast.xml` is the production update feed. Explicit QA prereleases and `qa/` feeds remain separate and must not be used as customer releases. Public release files and feeds only; application source is private.
+`appcast.xml` is the production update feed. Public release files and feeds only; application source is private.
 
 Support: hello@evolute-llc.com
